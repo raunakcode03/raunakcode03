@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raunakcode03
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning  Javascript
-- 💞️ I’m looking to collaborate on Projects related to python , Machine Learning and development
+- 💞️ I’m looking to collaborate on Projects related to Python , Machine Learning and development
 - 📫 How to reach me you can mail me in raunak.code03@gmail.com
 
 <!---
