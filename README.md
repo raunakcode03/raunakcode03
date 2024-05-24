@@ -2,6 +2,7 @@
 - 👀 I’m interested in Sofware Engineer and Web developer
 - 🌱 I’m currently learning  React and Django
 - 💞️ I’m looking to collaborate on Projects related to Python , Machine Learning and Development
+  
 - ## Skills
 - Python
 - Django
@@ -9,7 +10,7 @@
 - PHP
 - MySQL
 - HTML, CSS, JavaScript
-- 
+  
 - 📫 How to reach me you can mail me in raunak.code03@gmail.com
 
 ## Open Source Contributions
