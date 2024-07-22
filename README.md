@@ -5,6 +5,7 @@
   
 - ## Skills
 - Python
+- Java
 - Django
 - React
 - PHP
