@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @raunakcode03
 - 👀 I’m interested in Sofware Engineer and Web developer
 - 🌱 I’m currently learning  React and Django
-- 💞️ I’m looking to collaborate on Projects related to Python , Machine Learning and Development
+- 💞️ I’m looking to collaborate on Projects related to Python , Java , Machine Learning and Development
   
 - ## Skills
 - Python
